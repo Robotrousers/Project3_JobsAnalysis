@@ -1,15 +1,15 @@
-# Project2_JobsAnalysis
-## Group 1 Project 2 - DS Job Market Analysis
+#### Project2_JobsAnalysis
+# Group 1 Project 2 - DS Job Market Analysis
 
-### Data Science Job Market & Salaries 2024
+## Data Science Job Market & Salaries 2024
 
-<br>
 ### Introduction
 
 Welcome to the introduction. This is where the introduction will be and you will be introduced to our project. You should feel honored.
 
-<br><br>
-### Project Scope and Criteria Selection
+<br>
+
+### Project Scope and Criteria
 We will be analyzing the Data Science job market and salaries etc etc
 
 ### Key Metrics
@@ -33,7 +33,7 @@ We will be analyzing the Data Science job market and salaries etc etc
 - Location-Based Salary Comparison: Analyze how salaries differ across locations
 - Salary Distribution: Explore the distribution of both minimum and maximum salaries
 - Salary by Experience Level: Based on the position posted
-  
+<br>
 
 
 ### Visualization:
