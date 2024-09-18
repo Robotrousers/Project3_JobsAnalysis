@@ -35,12 +35,12 @@ We will be analyzing the Data Science job market and salaries etc etc
 
 
 ### This repo contains the following files:
-    Root\
+    root\
     - DS_Job_Analysis.js - the javascript file with our code and exploration etc etc
     -
 
     
-    Resources\
+    data\
     - clean_data-Job_Salaries.json - dataset for the data science job market
     - 
 
