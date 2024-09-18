@@ -19,13 +19,13 @@ We will be analyzing the Data Science job market and salaries etc etc
     - etc
 
 ### Questions:
-    - 1
+- 1
   
-    - 2
+- 2
       
-    - 3
+- 3
 
-
+<br>
 #### Collaborators:
 *Chuck Bui*<br>
 *Beau Massie*<br>
