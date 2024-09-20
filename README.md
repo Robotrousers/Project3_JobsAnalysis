@@ -4,13 +4,13 @@
 ## Data Science Job Market & Salaries 2024
 
 ### Introduction
-
-Welcome to the introduction. This is where the introduction will be and you will be introduced to our project. You should feel honored.
+This project will be approached with the Data Engineering Track focus of the assignment. As the data science field continues to grow, we want to understand the job market and salary trends. We will present this data for job seekers in the DS job market. Our focus will be to find the highest paying jobs per state, highest paying companies, and any correlations between company rating and salary. We will find these parameters for remote and onsite jobs. 
 
 <br>
 
 ### Project Scope and Criteria
-We will be analyzing the Data Science job market and salaries etc etc
+The purpose of this project is to design and implement an ETL pipeline that processes data from the ‘Cleaned Data Science Job Market & Salaries 2024‘. It will extract data and transform it for cleaning and analysis. We will be using Jupyter Notebook and Pandas Library for this. We will then load it into PostGreSQL for database storage and create an ERD. 
+Extract the job market and salary data and prepare it for cleaning and exploration; handling missing values and aggregating data to find relationships and trends. We will load this data into PostGreSQL for database storage. We plan to possibly import our most relevant data into a Javascript file and use Leaflet to create an interactive visualization to explore the data.
 
 ### Key Metrics
     - Available positions
@@ -36,50 +36,53 @@ We will be analyzing the Data Science job market and salaries etc etc
 <br>
 
 
-### Visualization:
-- Bar Chart:
-    - Top Job Titles - Show the distribution of job titles and the number of postings for each.
-    - Top Hiring Companies - Show the companies with the highest number of job listings
+### Possible Visualizations: Let's choose at least one that makes sense
+```yaml
+- Bar Chart
+    - Top Job Titles: Show the distribution of job titles and the number of postings for each.
+    - Top Hiring Companies: Show the companies with the highest number of job listings
   
-- Histogram:
-    - Salary Distribution - Visualize the distribution of minimum and maximum salaries
-    - Company Rating Distribution - Show how company ratings are spread out across the dataset
+- Histogram
+    - Salary Distribution: Visualize the distribution of minimum and maximum salaries
+    - Company Rating Distribution: Show how company ratings are spread out across the dataset    
       
-- Scatter Plot: - Bubble Chart??
-    - Salary Location Trends - Create a scatter plot to explore the relationship between location and salary range
-      
-      
-- Interactive Map [dropdown menu]:
-    - Create an interactive map that allows users to explore data science job postings and salary ranges by location
+- Interactive Map [dropdown menu]
+    - belly-button-challenge like viz: Create an interactive map that allows users to explore data science job postings and salary ranges by location
 
-- Heat Maps:
-    - Location-Based on Salary. Create a geographical heatmap to show average salaries in different regions
+- Heat Maps
+    - Location-Based on Salary: Create a geographical heatmap to show average salaries in different regions
 
-- Bubble Charts:
+- Bubble Charts or Scatter Plot
     - Salary by Location and Company Rating: Use bubble size to represent the number of postings, with axes for location and average salary, and bubble color to represent company rating
-
+```
 <br>
 
 #### Collaborators:
 *Chuck Bui*<br>
 *Beau Massie*<br>
-*Christopher Turner*<br>
-  
+*Christopher Turner*<br><br>
 
 
+### Proposed Technologies
+```yaml
+SQL: PostGreSQL
+Programming Language: Python (Jupyter Notebook, Pandas Library, SQLite)
+Additional library: TBD, PostGreSQL library
+```
 
 ### This repo contains the following files:
+```yaml
     root\
-    - DS_Job_Analysis.js - the javascript file with our code and exploration etc etc
-    -
+    - DS_Job_Analysis.ipynb - the Jupyter Notebook file with our code and exploration etc etc
+    - 
 
     
     data\
     - clean_data-Job_Salaries.json - dataset for the data science job market
     - 
-
+```
+![Screenshot 2024-09-17 204740](https://github.com/user-attachments/assets/6f6d9d56-ec32-481c-a137-e811fe11e67d)
 
 ### Resources, Cites and API
-- *Kaggle* - Cleaned dataset for the data science job market - https://www.kaggle.com/datasets/sajkazmi/cleaned-data-science-job-market-and-salaries-2024
-- *more great info* - 
+- *Kaggle* - Cleaned Data Science Job Market & Salaries 2024 by Syed Sajeel Haider - https://www.kaggle.com/datasets/sajkazmi/cleaned-data-science-job-market-and-salaries-2024
 - 
