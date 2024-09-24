@@ -1,5 +1,5 @@
-#### Project2_JobsAnalysis
-# Group 1 Project 2 - DS Job Market Analysis
+#### Project3_JobsAnalysis
+# Group 1 Project 3 - DS Job Market Analysis
 
 ## Data Science Job Market & Salaries 2024
 
