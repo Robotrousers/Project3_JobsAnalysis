@@ -1,5 +1,5 @@
-#### Project3_JobsAnalysis
-# Group 1 Project 3 - DS Job Market Analysis
+#### Project2_JobsAnalysis
+# Group 1 Project 2 - DS Job Market Analysis
 
 ## Data Science Job Market & Salaries 2024
 
@@ -19,37 +19,46 @@ Extract the job market and salary data and prepare it for cleaning and explorati
     - etc
 
 ### Questions:
-- What Job Category has the highest salary?
-- Are there any trends in salary offered based on company rating?
+- Are there any specific data science roles that are more prevalent?
+- How do these roles differ in terms of salary and location?
+- How does salary vary by experience level
 - Is there a correlation between location and salary range offered?
-- Is there a correlation between location and Company Rating
-
+- Are there any trends in salary offered based on company rating?
 <br>
 
 ### Explorations
 - Top Hiring Companies: Determine which companies have the most job listings
 - Salary Ranges by Job Title: Explore minimum, maximum, and average salaries for different job titles
+- Top Hiring Companies: Determine which companies have the most job listings
 - Location-Based Salary Comparison: Analyze how salaries differ across locations
+- Salary Distribution: Explore the distribution of both minimum and maximum salaries
+- Salary by Experience Level: Based on the position posted
 <br>
 
 
-### Possible Visualizations: Let's choose one that makes sense
+### Possible Visualizations: Let's choose at least one that makes sense
 ```yaml
 - Bar Chart
     - Top Job Titles: Show the distribution of job titles and the number of postings for each.
     - Top Hiring Companies: Show the companies with the highest number of job listings
   
 - Histogram
-    - Salary Distribution: Visualize the distribution of minimum and maximum salaries for each Job Category
+    - Salary Distribution: Visualize the distribution of minimum and maximum salaries
+    - Company Rating Distribution: Show how company ratings are spread out across the dataset    
       
-- Scatter Plot
+- Interactive Map [dropdown menu]
+    - belly-button-challenge like viz: Create an interactive map that allows users to explore data science job postings and salary ranges by location
+
+- Heat Maps
+    - Location-Based on Salary: Create a geographical heatmap to show average salaries in different regions
+
+- Bubble Charts or Scatter Plot
     - Salary by Location and Company Rating: Use bubble size to represent the number of postings, with axes for location and average salary, and bubble color to represent company rating
 ```
 <br>
 
 #### Collaborators:
 *Chuck Bui*<br>
-*Amanuel Lebassi*<br>
 *Beau Massie*<br>
 *Christopher Turner*<br><br>
 
