@@ -19,11 +19,11 @@ Extract the job market and salary data and prepare it for cleaning and explorati
     - etc
 
 ### Questions:
-- Are there any specific data science roles that are more prevalent?
-- How do these roles differ in terms of salary and location?
-- How does salary vary by experience level
-- Is there a correlation between location and salary range offered?
+- What Job Category has the highest salary?
 - Are there any trends in salary offered based on company rating?
+- Is there a correlation between location and salary range offered?
+- Is there a correlation between location and Company Rating
+
 <br>
 
 ### Explorations
@@ -59,6 +59,7 @@ Extract the job market and salary data and prepare it for cleaning and explorati
 
 #### Collaborators:
 *Chuck Bui*<br>
+*Amanuel Lebassi*<br>
 *Beau Massie*<br>
 *Christopher Turner*<br><br>
 
