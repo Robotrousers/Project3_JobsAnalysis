@@ -29,30 +29,20 @@ Extract the job market and salary data and prepare it for cleaning and explorati
 ### Explorations
 - Top Hiring Companies: Determine which companies have the most job listings
 - Salary Ranges by Job Title: Explore minimum, maximum, and average salaries for different job titles
-- Top Hiring Companies: Determine which companies have the most job listings
 - Location-Based Salary Comparison: Analyze how salaries differ across locations
-- Salary Distribution: Explore the distribution of both minimum and maximum salaries
-- Salary by Experience Level: Based on the position posted
 <br>
 
 
-### Possible Visualizations: Let's choose at least one that makes sense
+### Possible Visualizations: Let's choose one that makes sense
 ```yaml
 - Bar Chart
     - Top Job Titles: Show the distribution of job titles and the number of postings for each.
     - Top Hiring Companies: Show the companies with the highest number of job listings
   
 - Histogram
-    - Salary Distribution: Visualize the distribution of minimum and maximum salaries
-    - Company Rating Distribution: Show how company ratings are spread out across the dataset    
+    - Salary Distribution: Visualize the distribution of minimum and maximum salaries for each Job Category
       
-- Interactive Map [dropdown menu]
-    - belly-button-challenge like viz: Create an interactive map that allows users to explore data science job postings and salary ranges by location
-
-- Heat Maps
-    - Location-Based on Salary: Create a geographical heatmap to show average salaries in different regions
-
-- Bubble Charts or Scatter Plot
+- Scatter Plot
     - Salary by Location and Company Rating: Use bubble size to represent the number of postings, with axes for location and average salary, and bubble color to represent company rating
 ```
 <br>
