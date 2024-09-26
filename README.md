@@ -53,7 +53,7 @@ Extract the job market and salary data and prepare it for cleaning and explorati
     - Location-Based on Salary: Create a geographical heatmap to show average salaries in different regions
 
 - Bubble Charts or Scatter Plot
-    - Salary by Location and Company Rating: Use bubble size to represent the number of postings, with axes for location and average salary, and bubble color to represent company rating
+    - Salary by Location and Company Rating: Use bubble size to represent the number of postings, with axes for location and average salary
 ```
 <br>
 
