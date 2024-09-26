@@ -41,16 +41,6 @@ Extract the job market and salary data and prepare it for cleaning and explorati
 - Bar Chart
     - Top Job Titles: Show the distribution of job titles and the number of postings for each.
     - Top Hiring Companies: Show the companies with the highest number of job listings
-  
-- Histogram
-    - Salary Distribution: Visualize the distribution of minimum and maximum salaries
-    - Company Rating Distribution: Show how company ratings are spread out across the dataset    
-      
-- Interactive Map [dropdown menu]
-    - belly-button-challenge like viz: Create an interactive map that allows users to explore data science job postings and salary ranges by location
-
-- Heat Maps
-    - Location-Based on Salary: Create a geographical heatmap to show average salaries in different regions
 
 - Bubble Charts or Scatter Plot
     - Salary by Location and Company Rating: Use bubble size to represent the number of postings, with axes for location and average salary
@@ -85,4 +75,9 @@ Additional library: TBD, PostGreSQL library
 
 ### Resources, Cites and API
 - *Kaggle* - Cleaned Data Science Job Market & Salaries 2024 by Syed Sajeel Haider - https://www.kaggle.com/datasets/sajkazmi/cleaned-data-science-job-market-and-salaries-2024
-- 
+- *great video tute on psycopg2 (PostgreSQL module in python)* - https://www.youtube.com/watch?v=Q8iYj2ypWss&ab_channel=BekBrace
+- *psycopg2* - https://www.freecodecamp.org/news/postgresql-in-python/
+- *cmap etc for matplotlib* - https://www.geeksforgeeks.org/matplotlib-pyplot-viridis-in-python/
+- *cmap info* - https://www.analyticsvidhya.com/blog/2020/09/colormaps-matplotlib/
+- *basic plotly tute* - https://www.kaggle.com/code/saurav9786/plotly-tutorial-for-everyone
+- *great plotly express guide* - https://plotly.com/python/marker-style/
