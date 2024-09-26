@@ -82,3 +82,4 @@ Additional library: TBD, PostGreSQL library
 - *basic plotly tute* - https://www.kaggle.com/code/saurav9786/plotly-tutorial-for-everyone
 - *plotly express marker info* - https://plotly.com/python/marker-style/
 - *great plotly express guide* - syntax, hover_data, update_traces for adding interaction etc - https://plotly.com/python/line-and-scatter/
+- *continuous color scale picker* - it seems viridis is considered the new standard - https://plotly.com/python/colorscales/
