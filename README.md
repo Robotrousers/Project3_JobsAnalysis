@@ -13,10 +13,10 @@ The purpose of this project is to design and implement an ETL pipeline that proc
 Extract the job market and salary data and prepare it for cleaning and exploration; handling missing values and aggregating data to find relationships and trends. We will load this data into PostGreSQL for database storage. We plan to possibly import our most relevant data into a Javascript file and use Leaflet to create an interactive visualization to explore the data.
 
 ### Key Metrics
-    - Available positions
+    - available positions
     - salaries
     - location
-    - etc
+    - company rating
 
 ### Questions:
 - Are there any specific data science roles that are more prevalent?
