@@ -80,4 +80,5 @@ Additional library: TBD, PostGreSQL library
 - *cmap etc for matplotlib* - https://www.geeksforgeeks.org/matplotlib-pyplot-viridis-in-python/
 - *cmap info* - https://www.analyticsvidhya.com/blog/2020/09/colormaps-matplotlib/
 - *basic plotly tute* - https://www.kaggle.com/code/saurav9786/plotly-tutorial-for-everyone
-- *great plotly express guide* - https://plotly.com/python/marker-style/
+- *plotly express marker info* - https://plotly.com/python/marker-style/
+- *great plotly express guide* - syntax, hover_data, update_traces for adding interaction etc - https://plotly.com/python/line-and-scatter/
