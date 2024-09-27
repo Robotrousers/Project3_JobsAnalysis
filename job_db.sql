@@ -1,3 +1,6 @@
+Select *
+	FROM analyst_job_data
+
 -- Table: public.analyst_job_data
 
 -- DROP TABLE IF EXISTS public.analyst_job_data;
