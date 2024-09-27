@@ -63,12 +63,14 @@ Additional library: TBD, PostGreSQL library
 ### This repo contains the following files:
 ```yaml
     root\
-    - DS_Job_Analysis.ipynb - the Jupyter Notebook file with our code and exploration etc etc
-    - 
+    - data_job_market.ipynb - the Jupyter Notebook file with our code and exploration etc etc
+    - job_db.sql - SQL database for final table data
+    - db_erd.pgerd - SQL ERD created in PostGreSQL
+    - screen_ps_erd.png - screenshot of ERD
 
     
     data\
-    - clean_data-Job_Salaries.json - dataset for the data science job market
+    - clean_data.csv - dataset for the data science job market
     - 
 ```
 ![Screenshot 2024-09-17 204740](https://github.com/user-attachments/assets/6f6d9d56-ec32-481c-a137-e811fe11e67d)
