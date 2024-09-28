@@ -79,6 +79,7 @@ Additional library: TBD, PostGreSQL library
 - *Kaggle* - Cleaned Data Science Job Market & Salaries 2024 by Syed Sajeel Haider - https://www.kaggle.com/datasets/sajkazmi/cleaned-data-science-job-market-and-salaries-2024
 - *great video tute on psycopg2 (PostgreSQL module in python)* - https://www.youtube.com/watch?v=Q8iYj2ypWss&ab_channel=BekBrace
 - *psycopg2* - https://www.freecodecamp.org/news/postgresql-in-python/
+- *psycopg2* connection string - https://stackoverflow.com/questions/15634092/connect-to-an-uri-in-postgres
 - *cmap etc for matplotlib* - https://www.geeksforgeeks.org/matplotlib-pyplot-viridis-in-python/
 - *cmap info* - https://www.analyticsvidhya.com/blog/2020/09/colormaps-matplotlib/
 - *basic plotly tute* - https://www.kaggle.com/code/saurav9786/plotly-tutorial-for-everyone
