@@ -14,10 +14,7 @@ Extract the job market and salary data and prepare it for cleaning and explorati
 
 
 ### Ethical Considerations
-At least one paragraph summarizing efforts for ethical considerations made in the project.<br>
-At least one paragraph summarizing efforts for ethical considerations made in the project.<br>
-At least one paragraph summarizing efforts for ethical considerations made in the project.<br>
-At least one paragraph summarizing efforts for ethical considerations made in the project.<br>
+In this project, we used a dataset sourced from Kaggle, authored by Syed Sajeel Haider, which was pulled from a private data source (https://www.kaggle.com/datasets/muhammadehsan000/data-science-job-market-and-salaries-2024). While the original data was likely scraped from job posting websites such as Indeed, it is important to note that not all platforms allow web scraping, with LinkedIn strictly prohibiting it. In contrast, platforms like Indeed, Monster Jobs, and Glassdoor typically allow scraping of public information. Therefore, we assumed for this class assignment, that the data used in our analysis represents publicly available job postings, adhering to legal and ethical standards. Additionally, this dataset provides a snapshot of data science-related job trends for 2024, reflecting only current opportunities and insights. As such, it should not be interpreted as a long-term forecast or an exhaustive representation of all regions or industries.
 
 ### Key Metrics
     - available positions
