@@ -73,14 +73,6 @@ Additional library: TBD, PostGreSQL library
     - 
 ```
 
-### Questions:
-- Are there any specific data science roles that are more prevalent?
-- How do these roles differ in terms of salary and location?
-- How does salary vary by experience level
-- Is there a correlation between location and salary range offered?
-- Are there any trends in salary offered based on company rating?
-<br>
-
 
 ![Screenshot 2024-09-17 204740](https://github.com/user-attachments/assets/6f6d9d56-ec32-481c-a137-e811fe11e67d)
 
