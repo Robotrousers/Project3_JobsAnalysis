@@ -10,21 +10,20 @@ This project will be approached with the Data Engineering Track focus of the ass
 
 ### Project Scope and Criteria
 The purpose of this project is to design and implement an ETL pipeline that processes data from the ‘Cleaned Data Science Job Market & Salaries 2024‘. It will extract data and transform it for cleaning and analysis. We will be using Jupyter Notebook and Pandas Library for this. We will then load it into PostGreSQL for database storage and create an ERD. 
-Extract the job market and salary data and prepare it for cleaning and exploration; handling missing values and aggregating data to find relationships and trends. We will load this data into PostGreSQL for database storage. We plan to possibly import our most relevant data into a Javascript file and use Leaflet to create an interactive visualization to explore the data.
+Extract the job market and salary data and prepare it for cleaning and exploration; handling missing values and aggregating data to find relationships and trends. We will load this data into PostGreSQL for database storage. The sql schema file will be shared to easily access the data and explore as needed.
+
+
+### Ethical Considerations
+At least one paragraph summarizing efforts for ethical considerations made in the project.<br>
+At least one paragraph summarizing efforts for ethical considerations made in the project.<br>
+At least one paragraph summarizing efforts for ethical considerations made in the project.<br>
+At least one paragraph summarizing efforts for ethical considerations made in the project.<br>
 
 ### Key Metrics
     - available positions
     - salaries
     - location
     - company rating
-
-### Questions:
-- Are there any specific data science roles that are more prevalent?
-- How do these roles differ in terms of salary and location?
-- How does salary vary by experience level
-- Is there a correlation between location and salary range offered?
-- Are there any trends in salary offered based on company rating?
-<br>
 
 ### Explorations
 - Top Hiring Companies: Determine which companies have the most job listings
@@ -73,6 +72,16 @@ Additional library: TBD, PostGreSQL library
     - clean_data.csv - dataset for the data science job market
     - 
 ```
+
+### Questions:
+- Are there any specific data science roles that are more prevalent?
+- How do these roles differ in terms of salary and location?
+- How does salary vary by experience level
+- Is there a correlation between location and salary range offered?
+- Are there any trends in salary offered based on company rating?
+<br>
+
+
 ![Screenshot 2024-09-17 204740](https://github.com/user-attachments/assets/6f6d9d56-ec32-481c-a137-e811fe11e67d)
 
 ### Resources, Cites and API
