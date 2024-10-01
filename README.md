@@ -47,6 +47,7 @@ Christopher Turner
 ```yaml
 SQL: PostGreSQL for database storage
 Programming Language: Python (Jupyter Notebook, Pandas Library)
+Plotly Express: Visualization for the scatter chart
 Additional: pscyopg2 driver for PostGreSQL library utilizing SQLAlchemy
 ```
 
