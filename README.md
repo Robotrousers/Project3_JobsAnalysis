@@ -9,15 +9,19 @@ This project will be approached with the Data Engineering Track focus of the ass
 
 ### Project Scope and Criteria
 The purpose of this project is to design and implement an ETL pipeline that processes data from the ‘Cleaned Data Science Job Market & Salaries 2024‘. It will extract data and transform it for cleaning and analysis. We will be using Jupyter Notebook and Pandas Library for this. We will then load it into PostGreSQL for database storage and create an ERD. 
-Extract the job market and salary data and prepare it for cleaning and exploration; handling missing values and aggregating data to find relationships and trends. We will load this data into PostGreSQL for database storage. The sql schema file will be shared to easily access the data and explore as needed.
+Extract the job market and salary data and prepare it for cleaning and exploration; handling missing values and aggregating data to find relationships and trends. We will load this data into PostGreSQL for database storage. The sql schema file will be shared to easily access the data and explore as needed. 
 
 
 ### Ethical Considerations
 In this project, we used a dataset sourced from Kaggle, authored by Syed Sajeel Haider, which was pulled from a private data source (https://www.kaggle.com/datasets/muhammadehsan000/data-science-job-market-and-salaries-2024). While the original data was likely scraped from job posting websites such as Indeed, it is important to note that not all platforms allow web scraping, with LinkedIn strictly prohibiting it. In contrast, platforms like Indeed, Monster Jobs, and Glassdoor typically allow scraping of public information. Therefore, we assumed for this class assignment, that the data used in our analysis represents publicly available job postings, adhering to legal and ethical standards. Additionally, this dataset provides a snapshot of data science-related job trends for 2024, reflecting only current opportunities and insights. As such, it should not be interpreted as a long-term forecast or an exhaustive representation of all regions or industries.
 
-### ETL Guidelines:
-- 
-<br>
+### ETL Project Guidelines:
+- The project uses ETL workflows to ingest data into the database
+- The original dataset(s) are transformed prior to storing it in the database
+- A database is used to house the data (SQL, MongoDB, SQLite, etc.)
+- The database has at least two tables (SQL) or collections (NoSQL)
+- The project documents the choice of the database used and why
+- The project includes documentation of the ETL workflow with diagrams or ERD
 
 
 ### Visualization for Data Exploration
