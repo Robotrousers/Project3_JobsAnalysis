@@ -4,12 +4,12 @@
 ## Data Science Job Market & Salaries 2024
 
 ### Introduction
-This project will be approached with the Data Engineering Track focus of the assignment. As the data science field continues to grow, we want to understand the job market and salary trends. We will present this data for job seekers in the DS job market. Our focus will be to find the highest paying jobs per state, highest paying companies, and any correlations between company rating and salary. We will find these parameters for remote and onsite jobs. 
+This project will be approached with the Data Engineering Track focus of the assignment. As the data science field continues to grow, we want to understand the job market and salary trends. We will present this data for job seekers in the DS job market. Our focus will be to set up a clean database for future exploration to find the highest paying jobs per state, highest paying companies, and any correlations between company rating and salary, etc. We will find these parameters for both remote and onsite jobs. 
 
 
 ### Project Scope and Criteria
 The purpose of this project is to design and implement an ETL pipeline that processes data from the ‘Cleaned Data Science Job Market & Salaries 2024‘. It will extract data and transform it for cleaning and analysis. We will be using Jupyter Notebook and Pandas Library for this. We will then load it into PostGreSQL for database storage and create an ERD. 
-Extract the job market and salary data and prepare it for cleaning and exploration; handling missing values and aggregating data to find relationships and trends. We will load this data into PostGreSQL for database storage. For further exploration, please access the sql schema file will shared in this repo to easily access the data and explore as needed. 
+Extract the job market and salary data and prepare it for cleaning and exploration; handling missing values and aggregating data to find relationships and trends. We will load this data into PostGreSQL for database storage. For further exploration, please access the sql schema file shared in this repo to easily access the data and explore as needed. 
 
 
 ### Ethical Considerations
@@ -47,7 +47,9 @@ Christopher Turner
 ```yaml
 SQL: PostGreSQL for database storage
 Programming Language: Python (Jupyter Notebook, Pandas Library)
+Plotly Express: Visualization for the scatter chart
 Additional: pscyopg2 driver for PostGreSQL library utilizing SQLAlchemy
+            plotly express for interactive scatter plot
 ```
 
 ### This repo contains the following files:
@@ -68,7 +70,7 @@ Additional: pscyopg2 driver for PostGreSQL library utilizing SQLAlchemy
 ![Screenshot 2024-09-17 204740](https://github.com/user-attachments/assets/6f6d9d56-ec32-481c-a137-e811fe11e67d)
 
 ### Resources, Cites and API
-- *Kaggle* - Cleaned Data Science Job Market & Salaries 2024 by Syed Sajeel Haider - https://www.kaggle.com/datasets/sajkazmi/cleaned-data-science-job-market-and-salaries-2024
+- *Our dataset from Kaggle* - Cleaned Data Science Job Market & Salaries 2024 by Syed Sajeel Haider - https://www.kaggle.com/datasets/sajkazmi/cleaned-data-science-job-market-and-salaries-2024
 - *great video tute on psycopg2 (PostgreSQL module in python)* - https://www.youtube.com/watch?v=Q8iYj2ypWss&ab_channel=BekBrace
 - *psycopg2* - https://www.freecodecamp.org/news/postgresql-in-python/
 - *psycopg2* connection string - https://stackoverflow.com/questions/15634092/connect-to-an-uri-in-postgres
