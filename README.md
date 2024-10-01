@@ -9,7 +9,7 @@ This project will be approached with the Data Engineering Track focus of the ass
 
 ### Project Scope and Criteria
 The purpose of this project is to design and implement an ETL pipeline that processes data from the ‘Cleaned Data Science Job Market & Salaries 2024‘. It will extract data and transform it for cleaning and analysis. We will be using Jupyter Notebook and Pandas Library for this. We will then load it into PostGreSQL for database storage and create an ERD. 
-Extract the job market and salary data and prepare it for cleaning and exploration; handling missing values and aggregating data to find relationships and trends. We will load this data into PostGreSQL for database storage. The sql schema file will be shared to easily access the data and explore as needed. 
+Extract the job market and salary data and prepare it for cleaning and exploration; handling missing values and aggregating data to find relationships and trends. We will load this data into PostGreSQL for database storage. For further exploration, please access the sql schema file will shared in this repo to easily access the data and explore as needed. 
 
 
 ### Ethical Considerations
