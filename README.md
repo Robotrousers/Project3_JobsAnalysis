@@ -25,7 +25,7 @@ In this project, we used a dataset sourced from Kaggle, authored by Syed Sajeel 
 
 
 ### Visualization for Data Exploration
-- Bubble Charts or Scatter Plot
+- Scatter Plot
     - Salary by Location and Company Rating: Use bubble size to represent the number of postings, with axes for location and average salary
 
 #### Key Metrics in this data
