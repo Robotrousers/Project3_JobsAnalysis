@@ -55,13 +55,15 @@ Additional: pscyopg2 driver for PostGreSQL library utilizing SQLAlchemy
 ### This repo contains the following files:
 ```yaml
     root\
-    - data_job_market.ipynb - the Jupyter Notebook file with our code and exploration etc etc
-    - job_db.sql - SQL database for final table data
-    - db_erd.pgerd - SQL ERD created in PostGreSQL
-    - screen_ps_erd.png - screenshot of ERD
+    - data_job_market.ipynb - the Jupyter Notebook file with our code for cleaning and prep
+    - job_db.sql - SQL for the final database
     - Presentation_JobsAnalysis.pdf - PDF export of PowerPoint for class presentation
     - README.md
-    
+
+    resources\
+    - db_erd.pgerd - SQL ERD created in PostGreSQL
+    - screen_ps_erd.png - screenshot of ERD
+
     data\
     - clean_data.csv - dataset for the data science job market
 ```
