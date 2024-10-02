@@ -7,7 +7,3 @@ SELECT * FROM engineer_job_data;
 SELECT * FROM manager_job_data;
 
 SELECT * FROM scientist_job_data;
-
-SELECT * FROM non_remote_job_data;
-
-SELECT * FROM remote_job_data;
